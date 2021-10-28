@@ -1,7 +1,8 @@
 ### Hi there 👋
-
+![Stats](https://github-readme-stats.vercel.app/api?username=cclucky1&cclucky1=true&theme=dracula&locale=cn)  
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=cclucky1&locale=cn&layout=compact&show_icons=true&theme=dracula)  
 <!--
-**cclucky1/cclucky1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CCCChen/cclucky1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,5 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cclucky1 "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
