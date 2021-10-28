@@ -1,6 +1,15 @@
-### Hi there 👋
-![Stats](https://github-readme-stats.vercel.app/api?username=cclucky1&cclucky1=true&theme=dracula&locale=cn)  
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=cclucky1&locale=cn&layout=compact&show_icons=true&theme=dracula)  
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                ![Stats](https://github-readme-stats.vercel.app/api?username=cclucky1&cclucky1=true&theme=dracula&locale=cn)  
+            </td>
+            <td>  
+                ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=cclucky1&locale=cn&layout=compact&show_icons=true&theme=dracula)  
+            </td>
+        </tr>
+    </table>
+</html>
 <!--
 **CCCChen/cclucky1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
